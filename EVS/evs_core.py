@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 25 10:46:58 2021
+""" 
+    EVS Core :
+      contains the main EVS class and other useful functions and classes
 
-@author: Thomas Maynadié
+    @author: Thomas Maynadié
 """
 
 from EVS import evs_cosmology
@@ -20,8 +20,6 @@ from enum import Enum
 
 EVS_ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 EVS_RESULTS_PATH = EVS_ROOT_DIR + "\\Results"
-
-
     
 class EVSErrCode(Enum):
     EVS_ERROR = 1
@@ -44,8 +42,16 @@ class EVS(object):
         self.wrapper = evs_wrapper.EVSWrapper()
         self.computationHelper = evs_computation.EVSComputation()
         
-    """ Performs EVS calculations""" 
     def evs_calculation(self, NM_MAX):
+        """Compute EVS predictions according to previously set cosmological parameters and survey characteristics
+        
+            Input parameters :
+                - NM_MAX : number of Mass integration points
+                
+            Returns :
+                - computation results as a data structure
+        """ 
+        
         debug("Stating computation : ", EVSErrCode.EVS_STATUS)
         
         self.cosmo.updateParameters()
