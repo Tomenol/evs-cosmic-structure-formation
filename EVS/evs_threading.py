@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 26 12:31:35 2021
-
-@author: Thomas Maynadié
+""" 
+    EVS Threading :
+      multithreading manager used during the computation of EVS predictions
+      
+    @author: Thomas Maynadié
 """
 
 from threading import Thread, Lock
