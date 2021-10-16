@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 25 11:02:56 2021
-
-@author: Thomas Maynadié
+""" 
+    EVS Wrapper :
+      wrapper between C++ and Python functions
+      
+    @author: Thomas Maynadié
 """
 
 import numpy as np
