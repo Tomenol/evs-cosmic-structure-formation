@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed May 26 13:09:48 2021
+""" 
+    EVS Computation :
+      definition of the classes and functions relative to the computation and processing of evs predictions  
 
-@author: Thomas Maynadié
+    @author: Thomas Maynadié
 """
 
 from EVS import evs_core
@@ -16,9 +16,6 @@ import math
 import os
 from datetime import datetime
 
-
-# placeholder for evs computation results
-# todo add id or informations relative to the computation  (cosmo params, etc)
 class EVSResults(object):
     def __init__(self): pass
         
