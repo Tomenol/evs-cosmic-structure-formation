@@ -1,7 +1,7 @@
 # EVS of cosmic structures
 Based on a Fortran code developed by Pier-Stefano Corasaniti (LUTH), the goal of this Python/C code is to provide an efficient yet easy to use library to compute the mass of the most massive galaxy cluster in a given redshift bin. 
 
-By using Extreme Value Statistics and by assuming the validity of the LCDM cosmology, one can build a statistical model to predict the mass of the most massive galaxy cluster situated at a given redshift z, and this code can be used to compute those predictions under the thin redshift bin hypothesis (dz <= 0.1). 
+By using Extreme Value Statistics and assuming the validity of the LCDM cosmology, one can build a statistical model to predict the mass of the most massive galaxy cluster at a given redshift z. This code can be used to compute those predictions under the thin redshift bin hypothesis (dz <= 0.1). 
 
 # Sources :
 This library is based on the Fortran code developed by Pier-Stefano Corasaniti (LUTH)
