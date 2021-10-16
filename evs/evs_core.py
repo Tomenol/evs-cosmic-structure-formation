@@ -20,8 +20,6 @@ from enum import Enum
 
 EVS_ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
 EVS_RESULTS_PATH = EVS_ROOT_DIR + "\\Results"
-
-
     
 class EVSErrCode(Enum):
     EVS_ERROR = 1
@@ -44,8 +42,15 @@ class EVS(object):
         self.wrapper = evs_wrapper.EVSWrapper()
         self.computationHelper = evs_computation.EVSComputation()
         
-    """ Performs EVS calculations""" 
     def evs_calculation(self, NM_MAX):
+        """Compute EVS predictions according to previously set cosmological parameters and survey characteristics
+        
+            Inputs:
+                - NM_MAX : number of Mass integration points
+                
+            Returns :
+                - computation results as a data structure
+        """ 
         debug("Stating computation : ", EVSErrCode.EVS_STATUS)
         
         self.cosmo.updateParameters()
