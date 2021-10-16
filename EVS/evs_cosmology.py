@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 25 11:09:51 2021
+""" 
+    EVS Computation :
+      definition of the classes and functions relative to LCDM cosmology and survey characteristics  
 
-@author: Thomas Maynadié
+    @author: Thomas Maynadié
 """
 
 from EVS import evs_core
