@@ -3,8 +3,8 @@ Based on a Fortran code developed by Pier-Stefano Corasaniti (LUTH), the goal of
 
 By using Extreme Value Statistics and assuming the validity of the LCDM cosmology, one can build a statistical model to predict the mass of the most massive galaxy cluster at a given redshift z. This code can be used to compute those predictions under the thin redshift bin hypothesis (dz <= 0.1). 
 
-# results
-By using Planck 2018 cosmological parameters and setting survey characteristics to the default values, we can obtain the following graph (see examples/plotMmax.py) :
+# Results
+By using Planck 2018 cosmological parameters and setting survey characteristics to the default values, we can obtain the following plot (see examples/plotMmax.py) :
 
 ![image](https://user-images.githubusercontent.com/54234406/137623097-647ceb83-5c92-4351-b26a-697ac3be04bc.png)
 
