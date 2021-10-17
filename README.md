@@ -6,7 +6,7 @@ By using Extreme Value Statistics and assuming the validity of the LCDM cosmolog
 # results
 By using Planck 2018 cosmological parameters and setting survey characteristics to the default values, we can obtain the following graph (see examples/plotMmax.py) :
 
-![image](https://user-images.githubusercontent.com/54234406/137622517-be082102-6edd-47bb-920c-c3455f99b49f.png)
+![image](https://user-images.githubusercontent.com/54234406/137623097-647ceb83-5c92-4351-b26a-697ac3be04bc.png)
 
 where the red curve shows the most likely mass of the most massive galaxy cluster as a function of z and the blue curves show the two sigma confidence interval.
 
