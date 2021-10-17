@@ -10,7 +10,7 @@ By using Planck 2018 cosmological parameters and setting survey characteristics 
 
 where the red curve shows the most likely mass of the most massive galaxy cluster as a function of z and the blue curves show the two sigma confidence interval.
 
-# Sources :
+# References :
 This library is based on the Fortran code developed by Pier-Stefano Corasaniti (LUTH)
 
 The following papers were used for the development of this code :
