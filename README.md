@@ -6,7 +6,7 @@ By using Extreme Value Statistics and assuming the validity of the LCDM cosmolog
 # Results
 Figure 1.0 : Influence of the comsological parameters over the EVS predictions
 
-![image](https://user-images.githubusercontent.com/54234406/155145751-f6971eaf-16a9-488f-9493-b6fb5ddc01e4.png)
+![image](https://user-images.githubusercontent.com/54234406/155146710-767388c7-648a-4891-b182-bfa92fca3831.png)
 
 Figure 2.0 : Influence of the mass bias over the measured masses of the most massive clusters (PSZ2 galaaxy survey) and comparison with the EVS predictions (Planck 2015)
 
