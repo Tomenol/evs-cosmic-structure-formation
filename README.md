@@ -10,7 +10,7 @@ Figure 1.0 : Influence of the comsological parameters over the EVS predictions
 
 Figure 2.0 : Influence of the mass bias over the measured masses of the most massive clusters (PSZ2 galaaxy survey) and comparison with the EVS predictions (Planck 2015)
 
-![image](https://user-images.githubusercontent.com/54234406/155146332-755289cf-e76f-47a8-8d5a-106fdb81038f.png)
+![image](https://user-images.githubusercontent.com/54234406/155146511-e45218f3-01f1-41c1-a9c7-a31cedab74f7.png)
 
 # References :
 This library is based on the Fortran code developed by Pier-Stefano Corasaniti
