@@ -8,7 +8,7 @@ Figure 1.0 : Influence of the comsological parameters over the EVS predictions
 
 ![image](https://user-images.githubusercontent.com/54234406/155146710-767388c7-648a-4891-b182-bfa92fca3831.png)
 
-Figure 2.0 : Influence of the mass bias over the measured masses of the most massive clusters (PSZ2 galaaxy survey) and comparison with the EVS predictions (Planck 2015)
+Figure 2.0 : Influence of the mass bias over the measured masses of the most massive clusters (PSZ2 galaxy survey)
 
 ![image](https://user-images.githubusercontent.com/54234406/155146511-e45218f3-01f1-41c1-a9c7-a31cedab74f7.png)
 
