@@ -20,6 +20,3 @@ The following papers were used for the development of this code :
 - Tinker et al., Toward a halo mass function for precision cosmology: the limits of universality : https://arxiv.org/pdf/0803.2706.pdf
 - Chongchitnan, On the Abundance of Extreme Voids : https://arxiv.org/pdf/1502.07705.pdf
 - Planck Collaboration, Planck 2018 results : https://arxiv.org/pdf/1807.06209.pdf
-
-# Author :
-Thomas MAYNADIE
